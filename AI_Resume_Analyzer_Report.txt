@@ -1,0 +1,15 @@
+Project Title: AI-Powered Resume Analyzer
+Language: Python
+
+Overview: 
+This project simulates an AI system which analyzes a resume text and gives instant feedback. It detects the presence of key technical and soft skills, evaluates your resume out of 100, and gives tips for improvement.
+
+Key Features:
+- Accepts resume as text input
+- Smart keyword analysis
+- Simulated AI score
+- Personalized feedback for improvement
+- Easy-to-use command line interface
+ 
+Why This Project is Unique: 
+Most beginners show static portfolio projects. This project mimics real-world HR tech/trend and showcases logic thinking. It looks like AI but is built with basic if-else and string logic, making it lightweight and powerful.
