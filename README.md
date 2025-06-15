@@ -19,4 +19,4 @@ This is a creative Python-based project that analyzes resumes and provides intel
 - AI simulation
 
 ## 🚀 Author
-Your Name – 2025 Internship Application
+Shivansh Tiwari 
